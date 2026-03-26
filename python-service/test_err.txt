@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "D:\ai-coach\python-service\test_mp.py", line 3, in <module>
+    import mediapipe.tasks.python.vision as vision
+ImportError: cannot import name 'python' from 'mediapipe.tasks.python' (D:\ai-coach\python-service\venv\Lib\site-packages\mediapipe\tasks\python\__init__.py)
